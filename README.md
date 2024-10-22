@@ -1,35 +1,21 @@
-<h1 align="center">Olá! 👋</h1>
-<p align="center">Seja bem-vindo ao meu perfil!</p>
+###Olá! Eu sou o Nikolaikiev! 👋
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikolaikiev&show_icons=true&theme=dracula" alt="Status do GitHub" />
+🔭 Atualmente, atuo com desenvolvedor especializado em Minecraft.
+⚙️ Tecnologias principais: Java.
+🌱 Sempre aprendendo: explorando novas tecnologias.
+🎮 Fato curioso: Sou apaixonado por desenvolvimento plugins de Minecraft, e também gosto de estudar cada vez mais.
+
+<div style="display: inline_block">
+ <h3>Rank in Code Wars!</h3>
+ <img align="center" alt="Thiago-Node" height="100" width="420" src='https://www.codewars.com/users/nikolaikiev/badges/large'>
 </div>
 
-<hr>
-
-<h2 align="center">🌐 Redes Sociais / Contatos</h2>
-<p align="center">
-  <a href="https://x.com/nikolaikiev_">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-  </a>
-  <a href="https://discord.com/users/1296175558568312966">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">    
-  </a>
-</p>
-
-<hr>
-
-<h2 align="center">🖥️ Sistemas Operacionais</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" alt="Linux Mint">
-  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
-</p>
-
-<hr>
-
-<h2 align="center">💻 Linguagens</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-</p>
+ <div> 
+  <a href="https://github.com/nikolaikiev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikolaikiev&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaikieva&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
+</div>
