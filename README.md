@@ -7,7 +7,7 @@
 
 <hr>
 
-<h2 align="center">🌐 Redes Sociais</h2>
+<h2 align="center">🌐 Redes Sociais / Contatos</h2>
 <p align="center">
   <a href="https://x.com/nikolaikiev_">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
