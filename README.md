@@ -11,10 +11,6 @@
 <p align="center">
   <a href="https://x.com/nikolaikiev_">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
-  </a>
-    <a href="https://discord.com/users/915684373355978753">
-    <img src="https://lanyard.cnrad.dev/api/915684373355978753" alt="Discord">
-  </a>
 </p>
 
 <hr>
