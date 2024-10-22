@@ -11,6 +11,8 @@
 <p align="center">
   <a href="https://x.com/nikolaikiev_">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">
+  <a href="https://x.com/nikolaikiev_">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X">    
   </p>
 
 <hr>
